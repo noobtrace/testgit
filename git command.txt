@@ -1,0 +1,9 @@
+1.git 用户名和邮箱地址查看和修改
+	查看：
+	git config user.name
+	git config user.email
+	修改：
+	git config --global user.name "user.name"
+	git config --global user.email "user.email"
+2.windows修改Git Bash默认路径：
+	应用程序的属性中起始位置。
